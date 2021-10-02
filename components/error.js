@@ -1,1 +1,1 @@
-console.log("some conflict will occur")
+const fs=require('fs')
